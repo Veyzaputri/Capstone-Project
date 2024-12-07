@@ -1,0 +1,21 @@
+DOCUMENT : 
+
+Akses Link Berikut Setelah Program Dijalankan :
+http://localhost:3000/api-docs/
+
+service-account.json
+
+isinya  :
+{
+  "type": "service_account",
+  "project_id": "zero-sugar-b4166",
+  "private_key_id": "d5b097cca0026fe65ee59c3cd8f32d84c0da5ea6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDXP6VNvwgLB08z\nwHVNy0DRrYNbfXiFvqlddPk30Fx59fqaYVOWEMDb+HUuJ/TvktbnouOtmgYULZYP\nnJpH3NEMW0kX/y6tCIxxAwMou4+fGZxqvuy6OEPyugdlTZDLEHC/fRhuvUzumRfR\ntqbSTqCbUzPzpkiupgzW7Aa38Zav6y9XzRhl03Lyvoj8U4eRZ3zkEnaH5T+QSjy+\n0rPB7+T7jdq54sk5g/zLH7nKiuTnEz//tkqmpBm7jLHa6KEhQek01f9LZrZg1krN\nIaRBL0dB0ji2Fi4vQF6ncuU/Z/SPOTPO4ThHXTP60S/Disq4KQ26cRDnMDD/qmfu\nK4P4y2IRAgMBAAECggEAApy1BxAwC9aga83bdLoc3W25kGeA5f17JlsHMIE4ucTj\n/uGLJuRNl5Mg1vguuqzKMZpiW+WZ4ZDvScNKQgRbpv53hxbbZWVF3h3K3s3XYgEd\nUXuyGjzKE4mPGEN7+vNLNxXXJ2KgVX7SJcgAeV5aXcLaEsQE0bUmZQVb9vMCiPdi\nGodltAGX77JUdCmy/u4ElNQ9OcSWTQmwodG5M4ZslYSU1EiZXAkJmBwUOYgtghFI\noLt+XeKFUMVafKopM4hLkd5b7Znq+KXEwJop9ogY20ITmMoLlHF/N6ytnapHSnnP\nktI+CSmoTpGUKERW2o77Nl9F7uSeX+xvwLv1jsmXowKBgQDwzrs1TzTIhaElEl6M\n8eR4S8TI24/ijNlWOOMrL+3POz0UfLv44kUF4NvE11euzocRG733jTo8ASbT7hKm\nBiIfR1gxP9hEwvkMbnSWe7BtRL2xq5lu87xSmKyPPLFMW7xkl0yr/T881K0HilLV\n6SA0KUSzqFdkHwvHFYKwF8ztOwKBgQDk1B0ZUczdvCzWcMKWFYCPGWUaxtu3AWfF\nanLldfjjeDGMG7P4nY1/11vjIeAj6cB0gtRgxNX5km8myNQCm6OaoerQtAAOtzc8\n6/OkA/I5iQz00C044QRrFwqF3m656vC7t5mvte9ji+0QJPQVK5NIoG4j+Jw3dv3N\nrXFCJtGpIwKBgDTs+vBojC1WUWiYdPd9Yr2dyY5r01/znQD6V9NyIU5esroCAD5f\nXNRB64uD2N2uvrjf5Ay4mYf+qM4DkU20I2PEhnmskpfqUlqNHErGvKwHY7ndAUgF\ngeqVa7e/mygxMWLabhuO+YshIzZ5DGO/bTiJqXPjF/IFcM08yRBy6rNpAoGBAOI+\nqoqnKxQtAnP/RxUXK2XQ6PsBlKkrdYtmBTXEX5Gf+/UYSufL9uRobMx0aOV5LzTD\nSfJni1xXoRhKxfvSIH86Ci3RWqEyGyZb8CfBUxP54lqHHb84E6NCQ8A6PWYK2Xvw\nOr7U9lyJM5mbv8zSqavMGznri6D3QFfEXc/XC8LbAoGAdQbXUT6kqGSVvTtI09DP\nsUFtWw5pqrpyjcVntG0brfUJwFc3lXfHFTYrJZx+Tc02eov80UXVL7FYKDaaun/z\n+eKQgRpkGFbjZCYGm95ffRICfeccBf7dicWCs1DKksezsQ7DC3ClT9n+aIRfO3e4\nxoLZlIWOLeOVn/Zo510AAIQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-n7il7@zero-sugar-b4166.iam.gserviceaccount.com",
+  "client_id": "106647205787638982199",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-n7il7%40zero-sugar-b4166.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
